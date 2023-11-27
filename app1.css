@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('https://wallpapers.com/images/hd/4k-plane-loading-in-tarmac-euz0xb00xjm12bm3.jpg');
+    
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    align-items:left;
+   color: aqua;
+  }
